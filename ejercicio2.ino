@@ -9,7 +9,7 @@
  */
 
 //Creamos una constante para identificar al pin digital 12
-const int pinLed = 3;
+const int pinLed = 5;
 
 //Creamos una variable para el tiempo de encendido y apagado el led
 int tiempo=3000;
