@@ -10,9 +10,9 @@
  */
 
 //Creamos constantes para identificar los pìnes donde estan conectados los LEDs del semaforo
-const int LED_Rojo=12;
-const int LED_Ambar=11;
-const int LED_Verde=10;
+const int LED_Rojo=9;
+const int LED_Ambar=10;
+const int LED_Verde=11;
 
 //En la funcion setup configuramos pines digitales como salida
 void setup() { 
