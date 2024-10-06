@@ -11,7 +11,7 @@
 
 //Declaramos una constante para el pulsador
 const int pinPulsador=3;
-//Declaramos una constante para el pin 4
+//Declaramos una constante para el led
 const int pinLed = 2;
 
 //Declaramos la variable "estado" para guardar el estado del pulsador
