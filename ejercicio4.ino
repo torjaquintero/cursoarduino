@@ -3,10 +3,10 @@
  * ==============================
  * Ejercicio No.4
  * En este programa vamos a controlar el encendido de un led
- * a traves de un interruptor pulsador conectado a través del pin 3.
- * Mientras que el led es conectado al pin 2. El led permanecera
+ * a traves de un interruptor pulsador conectado a través del pin 2.
+ * Mientras que el led es conectado al pin 10. El led permanecera
  * apagado hasta que sea oprimido el pulsador, cuando el led se 
- * encenderá. Este solo se apagara cuando se suelte el pulsador.
+ * encenderá. Este solo se apagará cuando se suelte el pulsador.
 */
 
 //Declaramos una constante para el pulsador
