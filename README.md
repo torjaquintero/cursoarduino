@@ -26,3 +26,7 @@ En este programa vamos a controlar el pin digital 11 y el led conectado a él. E
 
 Ejercicio No.9
 En este programa vamos a controlar todos los pines digitales PWM del Arduino UNO. El programa consiste en emplear las estructuras repetitivas FOR anidadas para cambiar la intensidad del brillo de los leds que se encuentran conectados a los pines 3, 5, 6, 9, 10, 11.
+
+Ejercicio No.10
+En este programa vamos a realizar la lectura de un sensor de temperatura y humedad. El sensor utiliza la librería DHT.h que se encarga de procesar el valor análogo obtenido en la lectura para generar las variables de temperatura y humedad que se muestran a través del puerto serie.
+
