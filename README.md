@@ -12,3 +12,5 @@ En este programa vamos a simular el funcionamiento de un semáforo. Vamos a cone
 Ejercicio No.4
 En este programa vamos a controlar el encendido de un led a través de un interruptor pulsador conectado a través del pin 2. Mientras que el led es conectado al pin 10. El led permanecerá apagado hasta que sea oprimido el pulsador, cuando el led se encenderá. Este solo se apagara cuando se suelte el pulsador.
 
+Ejercicio No.5
+En este programa vamos a modificar el comportamiento del programa que se ha realizado en el ejercicio No. 4. El interruptor pulsador es conectado a través del pin 2. Mientras que el led es conectado al pin 10. Cada vez que sea oprimido el pulsador, el led cambiara de estado, ya sea de apagado a encendido o, de encendido a apagado.
