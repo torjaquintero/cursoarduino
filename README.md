@@ -30,3 +30,5 @@ En este programa vamos a controlar todos los pines digitales PWM del Arduino UNO
 Ejercicio No.10
 En este programa vamos a realizar la lectura de un sensor de temperatura y humedad. El sensor utiliza la librería DHT.h que se encarga de procesar el valor análogo obtenido en la lectura para generar las variables de temperatura y humedad que se muestran a través del puerto serie.
 
+Ejercicio No.11
+En este programa tomamos como base el código del ejercicio anterior. Se realiza una lectura del sensor de temperatura y humedad y, según el valor de temperatura, se deben encender un número determinado de leds en un rango de -10 a 40 °c. Donde 10 °c equivale a 0 leds encendidos y, 40 °c equivale a 10 leds encendidos.
