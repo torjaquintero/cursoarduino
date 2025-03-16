@@ -18,10 +18,10 @@ const int pinLed = 10;
 int estado;
 
 void setup() {
-  // Configura el PIN 3 como entrada
+  // Configura el PIN 2 como entrada
   pinMode(pinPulsador, INPUT);
 
-  // Configura el PIN 2 como salida
+  // Configura el PIN 10 como salida
   pinMode(pinLed, OUTPUT);
 }
 
