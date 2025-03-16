@@ -20,3 +20,6 @@ En este programa vamos a controlar 10 pines digitales del Arduino UNO. El progra
 
 Ejercicio No.7.
 En este programa vamos a controlar los mismos 10 pines digitales del Arduino UNO que se emplearon en el ejercicio No. 6. El programa consiste en emplear la estructura repetitiva FOR para encender y apagar de manera consecutiva los 10 leds conectados a los pines digitales del 2 al 11. La secuencia comienza en el pin 2 y activa uno a uno los leds hasta llegar al pin 11 y luego regresar encendiendo y apagando los leds hasta el led 2.
+
+Ejercicio No.8.
+En este programa vamos a controlar el pin digital 11 y el led conectado a él. El programa consiste en emplear la estructura repetitiva FOR para aumentar y disminuir la intensidad de brillo del led. Esto se logra gracias a que el pin 11 es un pin PWM, esta característica le permite modular el ancho del pulso a la salida, por lo que es posible modificar el flujo de corriente a través del led
