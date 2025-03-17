@@ -32,3 +32,6 @@ En este programa vamos a realizar la lectura de un sensor de temperatura y humed
 
 Ejercicio No.11
 En este programa tomamos como base el código del ejercicio anterior. Se realiza una lectura del sensor de temperatura y humedad y, según el valor de temperatura, se deben encender un número determinado de leds en un rango de -10 a 40 °c. Donde 10 °c equivale a 0 leds encendidos y, 40 °c equivale a 10 leds encendidos.
+
+Ejercicio No.12
+Este programa está basado en el código del ejercicio anterior. Esta vez el árbol de decisiones se ha reemplazado por la función map. Evaluando los resultados se observará que, el árbol de decisiones es mucho más preciso que la función construida en el ejercicio No.11.
