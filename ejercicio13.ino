@@ -2,10 +2,14 @@
  *  Bienvenidos a Sys On Chip
  * ==============================
  * Ejercicio No.13
- * Este programa vamos a realizar una lectura del puerto análogo A0, donde el 
- * se encuentra conectado un sensor de luz (LDR). El programa consiste en leer
- * el valor analógico del sensor y mostrarlo en el monitor serie, permitiendo
- * observar los cambios en la intensidad de luz detectada con su unidad de medida.
+ * Este programa permite medir la intensidad de luz utilizando un sensor LDR
+ * conectado al puerto analógico A0 del Arduino. Cuando se realiza la 
+ * lectura del sensor, se convierte el valor analógico de 10 bits (0-1023) 
+ * en su equivalente en voltios dentro del rango de 0 a 5V. Finalmente,
+ * los valores obtenidos se imprimen en el monitor serie, permitiendo
+ * visualizar tanto la lectura del sensor, como el nivel de tensión
+ * correspondiente, facilitando el análisis de los cambios en la intensidad
+ * de la luz detectada.
 */
 
 // Configuración de pines
